@@ -1,7 +1,7 @@
 # Python 2.7
 
 """
-Lab 1 - An Application of Genetic Algorithms
+An Application of Genetic Algorithms
 
 Task:
 Inscribe a triangle of the maximum area in a given ellipse.
